@@ -7,3 +7,6 @@ ls
 mv nowy-plik.txt jeszcze-nowszy.txt
 cp jeszcze-nowszy.txt jeszcze-nowszy-kopia.txt
 ```
+
+
+dasdas
